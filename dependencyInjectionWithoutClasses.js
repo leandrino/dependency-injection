@@ -1,3 +1,5 @@
+// Dependency Injection without classes
+
 'use strict'
 
 import db from 'unicorn-db-vendor'
